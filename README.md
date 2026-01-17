@@ -96,11 +96,7 @@ Top conditions: `GET /analytics/top-conditions?limit=10`
 
 Trials over time: `GET /analytics/trials-over-time?interval=month`
 
-## Notes / Future improvements
 
-Improve condition parsing (split multi-condition fields into a normalized table)
-
-Add Postgres + Docker Compose for production-like deployments
 
 Add caching in Streamlit and analytics endpoints
 
